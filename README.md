@@ -20,7 +20,7 @@ You can install Jupyter Notebook using the automated script or by following the 
 
 1.  **Download the script:**
     ```bash
-    curl -O [https://raw.githubusercontent.com/xToshiro/jupyter-on-android/main/install_jupyter.sh](https://raw.githubusercontent.com/xToshiro/jupyter-on-android/main/install_jupyter.sh)
+    curl -O https://raw.githubusercontent.com/xToshiro/jupyter-on-android/main/install_jupyter.sh
     ```
 
 2.  **Give execution permission to the script:**
